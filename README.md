@@ -1,2 +1,2 @@
-# PY-game
-Project I created for a class
+# arcade-games
+Projects I created for different classes using different programming languages. One uses Python and is a platformer game with coins you can collect, a timer, and sound effects, with a mob that chases you around until you touch one of the 2 green flags. There is a longer route and a shortcut. The other is in Java, and it's more interactive; it's an asteroid shooter-style game, and it plays more into the arcade style than the previous one. It comes loaded like the first one is; it also has a background that wraps infinitely as you play the game, making the experience more enjoyable and more soothing to the eye. 
